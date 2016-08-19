@@ -28,7 +28,7 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
+  "~*xhello~*y": [
     "asdlkfjahsldjfhalskdjfh."
   ],
   "~*x computer ~*y": [
